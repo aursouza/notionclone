@@ -22,7 +22,7 @@ export const Logo = () => {
         alt="Logo"
         height="40"
         width="40"
-        className="light:hidden"
+        className="hidden dark:block"
       />
       <p className={cn('font-semibold', font.className)}>MeuNotion</p>
     </div>
