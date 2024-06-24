@@ -6,7 +6,7 @@ export const Heroes = () => {
       <div className="flex items-center">
         <div className="relative w-[300px] h-[300px] sm:w-[350px] sm:h-[350px] md:h[400px] md:w-[400px]">
           <Image
-            src="/logo.svg"
+            src="/documents.png"
             alt="Documents"
             fill
             className="object-contain"
@@ -14,7 +14,7 @@ export const Heroes = () => {
         </div>
         <div className="relative h-[400px] w-[400px] hidden md:block">
           <Image
-            src="/logo.svg"
+            src="/reading.png"
             alt="Reading"
             fill
             className="object-contain"
